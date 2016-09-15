@@ -305,7 +305,7 @@
                         <persName type="standard">All</persName>
                         <persName type="form">All.</persName>
                     </person>
-                    <person xml:id="F-mnd-bot">
+                    <person xml:id="F-mnd-bot" sex="M">
                         <persName type="standard">Bottom, a weaver</persName>
                         <persName type="form">Bot.</persName>
                         <persName type="form">Bottom.</persName>
@@ -318,11 +318,11 @@
                         <persName type="form">Pyr.</persName>
                         <persName type="form">Pyra.</persName>
                     </person>
-                    <person xml:id="F-mnd-cob">
+                    <person xml:id="F-mnd-cob" sex="M">
                         <persName type="standard">Cobweb, a fairy</persName>
                         <persName type="form">Cob.</persName>
                     </person>
-                    <person xml:id="F-mnd-dem">
+                    <person xml:id="F-mnd-dem" sex="M">
                         <persName type="standard">Demetrius, in love with Hermia</persName>
                         <persName type="form">De.</persName>
                         <persName type="form">Dem.</persName>
@@ -330,7 +330,7 @@
                         <persName type="form">Demet.</persName>
                     </person>
                     <person xml:id="F-mnd-duk">
-                        <persName type="standard">Theseus, Duke of Athens</persName>
+                        <persName type="standard" sex="M">Theseus, Duke of Athens</persName>
                         <persName type="form">Du.</persName>
                         <persName type="form">Duk.</persName>
                         <persName type="form">Duke.</persName>
@@ -338,11 +338,11 @@
                         <persName type="form">Thes.</persName>
                     </person>
                     <person xml:id="F-mnd-hip">
-                        <persName type="standard">Hippolyta, queen of the Amazons, betrothed to Theseus</persName>
+                        <persName type="standard" sex="F">Hippolyta, queen of the Amazons, betrothed to Theseus</persName>
                         <persName type="form">Dut.</persName>
                         <persName type="form">Hip.</persName>
                     </person>
-                    <person xml:id="F-mnd-ege">
+                    <person xml:id="F-mnd-ege" sex="M">
                         <persName type="standard">Egeus, father to Hermia</persName>
                         <persName type="form">Ege.</persName>
                         <persName type="form">Egeus.</persName>
@@ -352,36 +352,36 @@
                         <persName type="form">Fai.</persName>
                         <persName type="form">Fair.</persName>
                     </person>
-                    <person xml:id="F-mnd-flu">
+                    <person xml:id="F-mnd-flu" sex="M">
                         <persName type="standard">Flute, a bellows-mender</persName>
                         <persName type="form">Flu.</persName>
                         <persName type="form">Flut.</persName>
                         <persName type="form">This.</persName>
                         <persName type="form">Thys.</persName>
                     </person>
-                    <person xml:id="F-mnd-hel">
+                    <person xml:id="F-mnd-hel" sex="F">
                         <persName type="standard">Helena, in love with Demetrius</persName>
                         <persName type="form">Hel.</persName>
                         <persName type="form">Hele.</persName>
                         <persName type="form">Hell.</persName>
                     </person>
-                    <person xml:id="F-mnd-her">
+                    <person xml:id="F-mnd-her" sex="F">
                         <persName type="standard">Hermia, daughter to Egeus, in love with Lysander</persName>
                         <persName type="form">Her.</persName>
                     </person>
-                    <person xml:id="F-mnd-lys">
+                    <person xml:id="F-mnd-lys" sex="M">
                         <persName type="standard">Lysander, in love with Hermia</persName>
                         <persName type="form">Lis.</persName>
                         <persName type="form">Lys.</persName>
                         <persName type="form">Lysa.</persName>
                         <persName type="form">Lysan.</persName>
                     </person>
-                    <person xml:id="F-mnd-snu">
+                    <person xml:id="F-mnd-snu" sex="M">
                         <persName type="standard">Snug, a joiner</persName>
                         <persName type="form">Lyon.</persName>
                         <persName type="form">Snug.</persName>
                     </person>
-                    <person xml:id="F-mnd-sta">
+                    <person xml:id="F-mnd-sta" sex="M">
                         <persName type="standard">Starveling, a tailor</persName>
                         <persName type="form">Moon.</persName>
                         <persName type="form">Moone.</persName>
@@ -392,7 +392,7 @@
                         <persName type="standard">Mustardseed, a fairy</persName>
                         <persName type="form">Mus.</persName>
                     </person>
-                    <person xml:id="F-mnd-obe">
+                    <person xml:id="F-mnd-obe" sex="M">
                         <persName type="standard">Oberon, king of the fairies</persName>
                         <persName type="form">Ob.</persName>
                         <persName type="form">Ober.</persName>
@@ -402,7 +402,7 @@
                         <persName type="form">Peas.</persName>
                         <persName type="form">Pease.</persName>
                     </person>
-                    <person xml:id="F-mnd-qui">
+                    <person xml:id="F-mnd-qui" sex="M">
                         <persName type="standard">Quince, a carpenter</persName>
                         <persName type="form">Pet.</persName>
                         <persName type="form">Peter.</persName>
@@ -412,11 +412,11 @@
                         <persName type="form">Quin.</persName>
                         <persName type="form">Quince.</persName>
                     </person>
-                    <person xml:id="F-mnd-phi">
+                    <person xml:id="F-mnd-phi" sex="M">
                         <persName type="standard">Philostrate, master of the revels to Theseus</persName>
                         <persName type="form">Phi.</persName>
                     </person>
-                    <person xml:id="F-mnd-puc">
+                    <person xml:id="F-mnd-puc" sex="M">
                         <persName type="standard">Puck, or Robin Goodfellow</persName>
                         <persName type="form">Pu.</persName>
                         <persName type="form">Puc.</persName>
@@ -427,7 +427,7 @@
                         <persName type="form">Rob.</persName>
                         <persName type="form">Robin.</persName>
                     </person>
-                    <person xml:id="F-mnd-tit">
+                    <person xml:id="F-mnd-tit" sex="F">
                         <persName type="standard">Titania, queen of the fairies</persName>
                         <persName type="form">Qu.</persName>
                         <persName type="form">Que.</persName>
@@ -435,7 +435,7 @@
                         <persName type="form">Tita.</persName>
                         <persName type="form">Tyta.</persName>
                     </person>
-                    <person xml:id="F-mnd-sno">
+                    <person xml:id="F-mnd-sno" sex="M">
                         <persName type="standard">Snout, a tinker</persName>
                         <persName type="form">Sn.</persName>
                         <persName type="form">Snout.</persName>
@@ -454,7 +454,7 @@
                                 <div type="scene" n="1">
                                     <head rend="italic center">Actus primus.</head>
                                     <head type="supplied">[Act 1, Scene 1]</head>
-                            <stage rend="italic center" type="entrance">Enter Theseus, Hippolita, with
+                            <stage rend="italic center" type="entrance" who="#F-mnd-duk,#F-mnd-hip">Enter Theseus, Hippolita, with
                                 others.</stage>
                             <cb n="1"/>
                                     <sp who="#F-mnd-duk">
@@ -488,7 +488,7 @@
                                 <l>But I will wed thee in another key,</l>
                                 <l>With pompe, with triumph, and with reuelling.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Egeus and his daughter Hermia, Lysander, 
+                            <stage rend="italic center" type="entrance" who="#F-mnd-ege,#F-mnd-her, #F-mnd-lys">Enter Egeus and his daughter Hermia, Lysander,
                                 <lb/>and Demetrius.</stage>
                             <sp who="#F-mnd-ege">
                                 <speaker rend="italic">Ege.</speaker>
@@ -660,8 +660,8 @@
                                 <speaker rend="italic">Ege.</speaker>
                                 <l>With dutie and desire we follow you.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exeunt</stage>
-                            <stage rend="italic center" type="entrance">Manet Lysander and Hermia.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-ege,#F-mnd-duk,#F-mnd-lys,#F-mnd-hip">Exeunt</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-her,#F-mnd-lys">Manet Lysander and Hermia.</stage>
                             <sp who="#F-mnd-lys">
                                 <speaker rend="italic">Lys.</speaker>
                                 <l>How now my loue? Why is your cheek so pale?</l>
@@ -756,7 +756,7 @@
                                 <speaker rend="italic">Lys.</speaker>
                                 <l>Keepe promise loue: looke here comes <hi rend="italic">Helena</hi>.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Helena.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-hel">Enter Helena.</stage>
                             <sp who="#F-mnd-her">
                                 <speaker rend="italic">Her.</speaker>
                                 <l>God speede faire <hi rend="italic">Helena</hi>, whither away?</l>
@@ -846,13 +846,13 @@
                                 <l>Keepe word <hi rend="italic">Lysander</hi> we must starue our sight,</l>
                                 <l>From louers foode, till morrow deepe midnight.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit Hermia.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-her">Exit Hermia.</stage>
                             <sp who="#F-mnd-lys">
                                 <speaker rend="italic">Lys.</speaker>
                                 <l>I will my <hi rend="italic">Hermia</hi>. <hi rend="italic">Helena</hi> adieu,</l>
                                 <l>As you on him, <hi rend="italic">Demetrius</hi> dotes on you.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit Lysander.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-lys">Exit Lysander.</stage>
                             <sp who="#F-mnd-hel">
                                 <speaker rend="italic">Hele.</speaker>
                                 <l>How happy some, ore othersome can be?</l>
@@ -882,11 +882,11 @@
                                 <l>But heerein meane I to enrich my paine,</l>
                                 <l>To haue his sight thither, and backe againe.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-hel">Exit.</stage>
                                 </div>
                                     <div type="scene" n="2">
                                         <head type="supplied">[Act 1, Scene 2]</head>
-                                    <stage rend="italic center" type="entrance">Enter Quince the Carpenter, Snug the Ioyner, Bottome the 
+                                    <stage rend="italic center" type="entrance" who="#F-mnd-qui,#F-mnd-snu,#F-mnd-bot,#F-mnd-sno,#F-mnd-sta">Enter Quince the Carpenter, Snug the Ioyner, Bottome the
                                         <lb/>Weauer, Flute the bellowes&#x2011;mender, Snout the Tinker, and 
                                         <lb/>Starueling the Taylor.</stage>
                             <sp who="#F-mnd-qui">
@@ -1121,7 +1121,7 @@
                                 <speaker rend="italic">Bot.</speaker>
                                 <p>Enough, hold or cut bow&#x2011;strings.</p>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exeunt.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-qui,#F-mnd-snu,#F-mnd-bot,#F-mnd-sno,#F-mnd-sta">Exeunt.</stage>
                         </div>
                             </div>
                             <div type="act" n="2">
@@ -1129,7 +1129,7 @@
                                     <head rend="italic center">Actus Secundus.</head>
                                     <head type="supplied">[Act 2, Scene 1]</head>    
                             <cb n="1"/>
-                                    <stage rend="italic center" type="entrance">Enter a Fairie at one doore, and Robin good&#x00AD;
+                                    <stage rend="italic center" type="entrance" who="#F-mnd-fai,#F-mnd-puc">Enter a Fairie at one doore, and Robin good&#x00AD;
                                 <lb/>fellow at another.</stage>
                             <sp who="#F-mnd-puc">
                                 <speaker rend="italic">Rob.</speaker>
@@ -1207,7 +1207,7 @@
                                 <l>And heere my Mistris:</l>
                                 <l>Would that he vvere gone.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter the King of Fairies at one doore with his traine, 
+                            <stage rend="italic center" type="entrance" who="#F-mnd-obe">Enter the King of Fairies at one doore with his traine,
                                 <lb/>and the Queene at another with hers.</stage>
                             <sp who="#F-mnd-obe">
                                 <speaker rend="italic">Ob.</speaker>
@@ -1337,7 +1337,7 @@
                                 <l>Not for thy Fairy Kingdome. Fairies away:</l>
                                 <l>We shall chide downe right, if I longer stay.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exeunt.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-obe,#F-mnd-fai,#F-mnd-puc">Exeunt.</stage>
                             <sp who="#F-mnd-obe">
                                 <speaker rend="italic">Ob.</speaker>
                                 <l>Wel, go thy way: thou shalt not from this groue,</l>
@@ -1398,7 +1398,7 @@
                                 <l>But who comes heere? I am inuisible,</l>
                                 <l>And I will ouer&#x2011;heare their conference.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Demetrius, Helena
+                            <stage rend="italic center" type="entrance" who="#F-mnd-dem,#F-mnd-hel">Enter Demetrius, Helena
                                 following him.</stage>
                             <sp who="#F-mnd-dem">
                                 <speaker rend="italic">Deme.</speaker>
@@ -1498,14 +1498,14 @@
                                 <l>I follow thee, and make a heauen of hell,</l>
                                 <l>To die vpon the hand I loue so well.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-hel">Exit.</stage>
                             <sp who="#F-mnd-obe">
                                 <speaker rend="italic">Ob.</speaker>
                                 <l>Fare thee well Nymph, ere he do leaue this groue,</l>
                                 <l>Thou shalt flie him, and he shall seeke thy loue.</l>
                                 <l>Hast thou the flower there? Welcome wanderer.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Pucke.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-puc">Enter Pucke.</stage>
                             <sp who="#F-mnd-puc">
                                 <speaker rend="italic">Puck.</speaker>
                                 <l>I, there it is.</l>
@@ -1541,7 +1541,7 @@
                             </div>
                                     <div type="scene" n="2">
                                         <head type="supplied">[Act 2, Scene 2]</head>  
-                                        <stage rend="italic center" type="entrance">Enter Queene of Fairies, with her traine.</stage>
+                                        <stage rend="italic center" type="entrance" who="#F-mnd-tit,#F-mnd-fai,#F-mnd-fai.1,#F-mnd-fai.2">Enter Queene of Fairies, with her traine.</stage>
                             <sp who="#F-mnd-tit">
                                 <speaker rend="italic">Queen.</speaker>
                                 <l>Come, now a Roundell, and a Fairy song;</l>
@@ -1580,8 +1580,8 @@
                                 <l rend="italic">Hence away, now all is well;</l>
                                 <l rend="italic">One aloofe, stand Centinell.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="business">Shee sleepes.</stage>
-                            <stage rend="italic center" type="entrance">Enter Oberon.</stage>
+                            <stage rend="italic rightJustified" type="business" who="#F-mnd-tit">Shee sleepes.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-obe">Enter Oberon.</stage>
                             <sp who="#F-mnd-obe">
                                 <speaker rend="italic">Ober.</speaker>
                                 <l>What thou seest when thou dost wake,</l>
@@ -1593,7 +1593,7 @@
                                 <l>When thou wak'st, it is thy deare,</l>
                                 <l>Wake when some vile thing is neere.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Lisander and
+                            <stage rend="italic center" type="entrance" who="#F-mnd-lys,#F-mnd-her">Enter Lisander and
                                 Hermia.</stage>
                             <sp who="#F-mnd-lys">
                                 <speaker rend="italic">Lis.</speaker>
@@ -1650,8 +1650,8 @@
                                 <speaker rend="italic">Her.</speaker>
                                 <l>With halfe that wish, the wishers eyes be prest.</l>
                             </sp>
-                                        <stage rend="italic center" type="entrance">Enter Pucke.</stage>
-                                        <stage rend="italic rightJustified" type="business">They sleepe.</stage>
+                                        <stage rend="italic center" type="entrance" who="#F-mnd-puc">Enter Pucke.</stage>
+                                        <stage rend="italic rightJustified" type="business" who="#F-mnd-lys,#F-mnd-her">They sleepe.</stage>
                             <sp who="#F-mnd-puc">
                                 <speaker rend="italic">Puck.</speaker>
                                 <l>Through the Forest haue I gone,</l>
@@ -1677,8 +1677,8 @@
                                 <l>So awake when I am gone:</l>
                                 <l>For I must now to <hi rend="italic">Oberon</hi>.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
-                            <stage rend="italic center" type="entrance">Enter Demetrius and Helena running.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-puc">Exit.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-dem,#F-mnd-hel">Enter Demetrius and Helena running.</stage>
                             <sp who="#F-mnd-hel">
                                 <speaker rend="italic">Hel.</speaker>
                                 <l>Stay, though thou kill me, sweete <hi rend="italic">Demetrius</hi>.</l>
@@ -1695,7 +1695,7 @@
                                 <speaker rend="italic">De.</speaker>
                                 <l>Stay on thy perill, I alone will goe.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit Demetrius.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-dem">Exit Demetrius.</stage>
                             <sp who="#F-mnd-hel">
                                 <speaker rend="italic">Hel.</speaker>
                                 <l>O I am out of breath, in this fond chace,</l>
@@ -1758,7 +1758,7 @@
                                 <l>Oh, that a Lady of one man refus'd,</l>
                                 <l>Should of another therefore be abus'd.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-hel">Exit.</stage>
                             <sp who="#F-mnd-lys">
                                 <speaker rend="italic">Lys.</speaker>
                                 <l>She sees not <hi rend="italic">Hermia</hi>: <hi rend="italic">Hermia</hi> sleepe thou there,</l>
@@ -1773,7 +1773,7 @@
                                 <l>And all my powers addresse your loue and might,</l>
                                 <l>To honour <hi rend="italic">Helen</hi>, and to be her Knight.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-lys">Exit.</stage>
                             <sp who="#F-mnd-her">
                                 <speaker rend="italic">Her.</speaker>
                                 <l>Helpe me <hi rend="italic">Lysander</hi>, helpe me; do thy best</l>
@@ -1789,14 +1789,14 @@
                                 <l>No, then I well perceiue you are not nye,</l>
                                 <l>Either death or you Ile finde immediately.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-her">Exit.</stage>
                         </div>
                                 </div>
                         <div type="act" n="3">
                                     <div type="scene" n="1">
                                         <head rend="italic center">Actus Tertius.</head>
                                         <head type="supplied">[Act 3, Scene 1]</head>
-                            <stage rend="italic center" type="entrance">Enter the Clownes.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-bot,#F-mnd-qui,#F-mnd-sno,#F-mnd-sta">Enter the Clownes.</stage>
                             <sp who="#F-mnd-bot">
                                 <speaker rend="italic">Bot.</speaker>
                                 <p>Are we all met?</p>
@@ -1906,7 +1906,7 @@
                                 <p>A Calender, a Calender, looke in the Almanack, 
                                     <lb/>finde out Moone&#x2011;shine, finde out Moone&#x2011;shine.</p>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Pucke.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-puc">Enter Pucke.</stage>
                             <sp who="#F-mnd-qui">
                                 <speaker rend="italic">Quin.</speaker>
                                 <p>Yes, it doth shine that night.</p>
@@ -1947,7 +1947,7 @@
                                     <lb/>enter into that Brake, and so euery one according to his
                                     <lb/>cue.</p>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Robin.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-puc">Enter Robin.</stage>
                             <sp who="#F-mnd-puc">
                                 <speaker rend="italic">Rob.</speaker>
                                 <l>What hempen home&#x2011;spuns haue we swagge&#x00AD;<lb/>ring here,</l>
@@ -2018,7 +2018,7 @@
                                 <p>O monstrous. O strange. We are hanted; pray
                                     <lb/>masters, flye masters, helpe.</p>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">The Clownes all Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-bot,#F-mnd-qui,#F-mnd-sno,#F-mnd-sta">The Clownes all Exit.</stage>
                             <sp who="#F-mnd-puc">
                                 <speaker rend="italic">Puk.</speaker>
                                 <l>Ile follow you, Ile leade you about a Round,</l>
@@ -2029,13 +2029,13 @@
                                 <l>Like horse, hound, hog, beare, fire, at euery turne.</l>
                             </sp>
                             <stage rend="italic rightJustified" type="exit">Exit.</stage>
-                            <stage rend="italic center" type="entrance">Enter Piramus with the Asse head.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-bot">Enter Piramus with the Asse head.</stage>
                             <sp who="#F-mnd-bot">
                                 <speaker rend="italic">Bot.</speaker>
                                 <p>Why do they run away? This is a knauery of 
                                     <lb/>them to make me afeard.</p>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Snowt.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-sno">Enter Snowt.</stage>
                             <sp who="#F-mnd-sno">
                                 <speaker rend="italic">Sn.</speaker>
                                 <p>O <hi rend="italic">Bottom</hi>, thou art chang'd; What doe I see on 
@@ -2046,13 +2046,13 @@
                                 <p>What do you see? You see an Asse&#x2011;head of your 
                                     <lb/>owne, do you?</p>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Peter Quince.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-qui">Enter Peter Quince.</stage>
                             <sp who="#F-mnd-qui">
                                 <speaker rend="italic">Pet.</speaker>
                                 <p>Blesse thee <hi rend="italic">Bottome</hi>, blesse thee; thou art transla&#x00AD;
                                     <lb/>ted.</p>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-qui">Exit.</stage>
                             <sp who="#F-mnd-bot">
                                 <speaker rend="italic">Bot.</speaker>
                                 <p>I see their knauery; this is to make an asse of me, 
@@ -2119,7 +2119,7 @@
                                 <l>And I will purge thy mortall grossenesse so,</l>
                                 <l>That thou shalt like an airie spirit go.</l>
                             </sp>
-                                        <stage rend="italic center" type="entrance">Enter Pease&#x2011;blossome, Cobweb, Moth, Mustard&#x2011;
+                                        <stage rend="italic center" type="entrance" who="#F-mnd-pea,#F-mnd-cob,#F-mnd-mus, #F-mnd-fai.1,#F-mnd-fai.2,#F-mnd-fai.3,#F-mnd-fai.4">Enter Pease&#x2011;blossome, Cobweb, Moth, Mustard&#x2011;
                                 <lb/>seede, and foure Fairies.</stage>
                             <sp who="#F-mnd-fai">
                                 <speaker rend="italic">Fai.</speaker>
@@ -2207,17 +2207,17 @@
                                 <l>Lamenting some enforced chastitie.</l>
                                 <l>Tye vp my louers tongue, bring him silently.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-tit,#F-mnd-pea,#F-mnd-cob,#F-mnd-mus, #F-mnd-fai.1,#F-mnd-fai.2,#F-mnd-fai.3,#F-mnd-fai.4,#F-mnd-bot">Exit.</stage>
                            </div>
                                     <div type="scene" n="2">
                                         <head type="supplied">[Act 3, Scene 2]</head> 
-                                <stage rend="italic center" type="entrance">Enter King of Pharies, solus.</stage>
+                                <stage rend="italic center" type="entrance" who="#F-mnd-obe">Enter King of Pharies, solus.</stage>
                             <sp who="#F-mnd-obe">
                                 <speaker rend="italic">Ob.</speaker>
                                 <l>I wonder if <hi rend="italic">Titania</hi> be awak't;</l>
                                 <l>Then what it was that next came in her eye,</l>
                                 <l>Which she must dote on, in extremitie.</l>
-                            <stage rend="italic center" type="entrance">Enter Pucke.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-puc">Enter Pucke.</stage>
                                 <l>Here comes my messenger: how now mad spirit,</l>
                                 <l>What night&#x2011;rule now about this gaunted groue?</l>
                             </sp>
@@ -2266,7 +2266,7 @@
                                 <l>And the <hi rend="italic">Athenian</hi> woman by his side,</l>
                                 <l>That when he wak't, of force she must be eyde.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Demetrius and Hermia.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-dem,#F-mnd-her">Enter Demetrius and Hermia.</stage>
                             <sp who="#F-mnd-obe">
                                 <speaker rend="italic">Ob.</speaker>
                                 <l>Stand close, this is the same <hi rend="italic">Athenian</hi>.</l>
@@ -2344,7 +2344,7 @@
                                 <l>And from thy hated presence part I: see me no more</l>
                                 <l>Whether he be dead or no.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-her">Exit.</stage>
                             <sp who="#F-mnd-dem">
                                 <speaker rend="italic">Dem.</speaker>
                                 <l>There is no following her in this fierce vaine,</l>
@@ -2385,7 +2385,7 @@
                                 <l>I go, I go, looke how I goe,</l>
                                 <l>Swifter then arrow from the <hi rend="italic">Tartars</hi> bowe.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-puc">Exit.</stage>
                             <sp who="#F-mnd-obe">
                                 <speaker rend="italic">Ob.</speaker>
                                 <l>Flower of this purple die,</l>
@@ -2397,7 +2397,7 @@
                                 <l>When thou wak'st if she be by,</l>
                                 <l>Beg of her for remedy.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Pucke.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-puc">Enter Pucke.</stage>
                             <sp who="#F-mnd-puc">
                                 <speaker rend="italic">Puck.</speaker>
                                 <l>Captaine of our Fairy band,</l>
@@ -2419,7 +2419,7 @@
                                 <l>And those things doe best please me,</l>
                                 <l>That befall preposterously.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Lysander and
+                            <stage rend="italic center" type="entrance" who="#F-mnd-lys,#F-mnd-hel">Enter Lysander and
                                 Helena.</stage>
                             <sp who="#F-mnd-lys">
                                 <speaker rend="italic">Lys.</speaker>
@@ -2515,7 +2515,7 @@
                                 <l>Lest to thy perill thou abide it deare.</l>
                                 <l>Looke where thy Loue comes, yonder is thy deare.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Hermia.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-her">Enter Hermia.</stage>
                             <sp who="#F-mnd-her">
                                 <speaker rend="italic">Her.</speaker>
                                 <l>Dark night, that from the eye his function takes,</l>
@@ -2848,7 +2848,7 @@
                                 <l>Follow? Nay, Ile goe with thee cheeke by 
                                     <lb/>iowle.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit Lysander and Demetrius.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-lys,#F-mnd-der">Exit Lysander and Demetrius.</stage>
                             <sp who="#F-mnd-her">
                                 <speaker rend="italic">Her.</speaker>
                                 <l>You Mistris, all this coyle is long of you.</l>
@@ -2861,7 +2861,7 @@
                                 <l>Your hands then mine, are quicker for a fray,</l>
                                 <l>My legs are longer though to runne away.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Oberon and
+                            <stage rend="italic center" type="entrance" who="#F-mnd-obe,#F-mnd-puc">Enter Oberon and
                                 Pucke.</stage>
                             <sp who="#F-mnd-obe">
                                 <speaker rend="italic">Ob.</speaker>
@@ -2991,7 +2991,7 @@
                                 <l>For if but once thou shew me thy gray light,</l>
                                 <l>Ile finde <hi rend="italic">Demetrius</hi>, and reuenge this spight.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Robin and Demetrius.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-puc,#F-mnd-dem">Enter Robin and Demetrius.</stage>
                             <sp who="#F-mnd-puc">
                                 <speaker rend="italic">Rob.</speaker>
                                 <l>Ho, ho, ho; coward, why com'st thou not?</l>
@@ -3016,7 +3016,7 @@
                                 <l>To measure out my length on this cold bed,</l>
                                 <l>By daies approach looke to be visited.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Helena.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-hel">Enter Helena.</stage>
                             <sp who="#F-mnd-hel">
                                 <speaker rend="italic">Hel.</speaker>
                                 <l>O weary night, O long and tedious night,</l>
@@ -3033,7 +3033,7 @@
                                 <l>Two of both kindes makes vp foure.</l>
                                 <l>Here she comes, curst and sad,</l>
                                 <l><hi rend="italic">Cupid</hi> is a knauish lad,</l>
-                            <stage rend="italic center" type="entrance">Enter Hermia.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-her">Enter Hermia.</stage>
                                 <l>Thus to make poore females mad.</l>
                             </sp>
                             <sp who="#F-mnd-her">
@@ -3062,14 +3062,14 @@
                                 <l>The man shall haue his Mare againe, and all shall bee
                                     <lb/>well.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="business">They sleepe all the Act.</stage>
+                            <stage rend="italic rightJustified" type="business" who="#F-mnd-lys,#F-mnd-der,#F-mnd-puc">They sleepe all the Act.</stage>
                         </div>
                         </div>
                             <div type="act" n="4">
                                 <div type="scene" n="1">
                                     <head rend="italic center">Actus Quartus.</head>
                                     <head type="supplied">[Act 4, Scene 1]</head> 
-                            <stage rend="italic" type="entrance">Enter Queene of Fairies, and Clowne, and Fairies, and the 
+                            <stage rend="italic" type="entrance" who="#F-mnd-tit,#F-mnd-bot,#F-mnd-pea,#F-mnd-cob, #F-mnd-mus">Enter Queene of Fairies, and Clowne, and Fairies, and the
                                 <lb/>King behinde them.</stage>
                             <sp who="#F-mnd-tit">
                                 <speaker rend="italic">Tita.</speaker>
@@ -3170,7 +3170,7 @@
                                 <cb n="2"/>
                                 <l>O how I loue thee! how I dote on thee<hi rend="italic">!</hi></l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Robin goodfellow and Oberon.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-obe,#F-mnd-puc">Enter Robin goodfellow and Oberon.</stage>
                             <sp who="#F-mnd-obe">
                                 <speaker rend="italic">Ob.</speaker>
                                 <l>Welcome good <hi rend="italic">Robin</hi>:</l>
@@ -3272,9 +3272,9 @@
                                 <cb n="1"/>
                                 <l>With these mortals on the ground.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exeunt.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-tit,#F-mnd-bot,#F-mnd-pea,#F-mnd-cob, #F-mnd-mus,#F-mnd-obe,#F-mnd-puc">Exeunt.</stage>
                             <stage rend="italic rightJustified" type="business">Winde Hornes.</stage>
-                            <stage rend="italic center" type="entrance">Enter Theseus, Egeus,
+                            <stage rend="italic center" type="entrance" who="#F-mnd-duk,#F-mnd-ege,#F-mnd-hip">Enter Theseus, Egeus,
                                 Hippolita and all his traine.</stage>
                             <sp who="#F-mnd-duk">
                                 <speaker rend="italic">Thes.</speaker>
@@ -3447,7 +3447,7 @@
                                     <lb/>by the way let vs recount our dreames.</l>
                             </sp>
                             <stage rend="italic center" type="business">Bottome wakes.</stage>
-                            <stage rend="italic rightJustified" type="exit">Exit Louers.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-lys,#F-mnd-her,#F-mnd-dem,#F-mnd-hel,">Exit Louers.</stage>
                             <sp who="#F-mnd-bot">
                                 <speaker rend="italic">Clo.</speaker>
                                 <p>When my cue comes, call me, and I will answer. 
@@ -3469,11 +3469,11 @@
                                     <lb/>aduenture, to make it the more gracious, I shall sing it 
                                     <lb/>at her death.</p>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exit.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-bot">Exit.</stage>
                            </div>
                                     <div type="scene" n="2">
                                         <head type="supplied">[Act 4, Scene 2]</head>
-                                <stage rend="italic center" type="entrance">Enter Quince, Flute,
+                                <stage rend="italic center" type="entrance" who="#F-mnd-qui,#F-mnd-flu,#F-mnd-thi,#F-mnd-sno,#F-mnd-sta">Enter Quince, Flute,
                                 Thisbie, Snout, and Starueling.</stage>
                             <sp who="#F-mnd-qui">
                                 <speaker rend="italic">Quin.</speaker>
@@ -3514,7 +3514,7 @@
                                 <p>You must say, Paragon. A Paramour is (God 
                                     <lb/>blesse vs) a thing of nought.</p>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Snug the Ioyner.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-snu">Enter Snug the Ioyner.</stage>
                             <sp who="#F-mnd-snu">
                                 <speaker rend="italic">Snug.</speaker>
                                 <p>Masters, the Duke is comming from the Tem&#x00AD;
@@ -3530,7 +3530,7 @@
                                     <lb/>a day for playing <hi rend="italic">Piramus</hi>, Ile be hang'd. He would haue
                                     <lb/>deserued it. Sixpence a day in <hi rend="italic">Piramus</hi>, or nothing.</p>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter Bottome.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-bot">Enter Bottome.</stage>
                             <sp who="#F-mnd-bot">
                                 <speaker rend="italic">Bot.</speaker>
                                 <p>Where are these Lads? Where are these hearts?</p>
@@ -3564,14 +3564,14 @@
                                     <lb/>breath, and I doe not doubt but to heare them say, it is a 
                                     <lb/>sweet Comedy. No more words: away, go away.</p>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exeunt.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-bot,#F-mnd-qui">Exeunt.</stage>
                         </div>
                             </div>
       <div type="act" n="5">
                                 <div type="scene" n="1">
                                     <head rend="italic center">Actus Quintus.</head>
                                     <head type="supplied">[Act 5, Scene 1]</head>
-                            <stage rend="italic" type="entrance">Enter Theseus, Hippolita, Egeus and his Lords.</stage>
+                            <stage rend="italic" type="entrance" who="#F-mnd-duk,#F-mnd-hip,#F-mnd-ege">Enter Theseus, Hippolita, Egeus and his Lords.</stage>
                             <sp who="#F-mnd-hip">
                                 <speaker rend="italic">Hip.</speaker>
                                 <l>'Tis strange my <hi rend="italic">Theseus</hi>, y<hi rend="superscript">t</hi> these louers speake of.</l>
@@ -3608,7 +3608,7 @@
                                 <l>And growes to something of great constancie;</l>
                                 <l>But howsoeuer, strange, and admirable.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter louers, Lysander, Demetrius, Hermia, 
+                            <stage rend="italic center" type="entrance" who="#F-mnd-lys,#F-mnd-dem,#F-mnd-herm,#F-mnd-hel">Enter louers, Lysander, Demetrius, Hermia,
                                 <lb/>and Helena.</stage>
                             <sp who="#F-mnd-duk">
                                 <speaker rend="italic">The.</speaker>
@@ -3773,7 +3773,7 @@
                                 <l>Let him approach.</l>
                             </sp>
                             <stage rend="italic rightJustified" type="business">Flor. Trum.</stage>
-                            <stage rend="italic center" type="entrance">Enter the Prologue.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-qui">Enter the Prologue.</stage>
                             <stage rend="italic rightJustified" type="entrance">Quince.</stage>
                             <sp who="#F-mnd-qui">
                                 <speaker rend="italic">Pro.</speaker>
@@ -4267,8 +4267,8 @@
                                     <l>A fortnight hold we this solemnity.</l>
                                     <l>In nightly Reuels; and new iollitie.</l>
                             </sp>
-                            <stage rend="italic rightJustified" type="exit">Exeunt.</stage>
-                            <stage rend="italic center" type="entrance">Enter Pucke.</stage>
+                            <stage rend="italic rightJustified" type="exit" who="#F-mnd-qui,#F-mnd-duk,#F-mnd-bot">Exeunt.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-puc">Enter Pucke.</stage>
                             <sp who="#F-mnd-puc">
                                 <speaker rend="italic">Puck</speaker>
                                 <l>Now the hungry Lyons rores,</l>
@@ -4292,7 +4292,7 @@
                                 <l>I am sent with broome before,</l>
                                 <l>To sweep the dust behinde the doore.</l>
                             </sp>
-                            <stage rend="italic center" type="entrance">Enter King and Queene of Fairies, with their traine.</stage>
+                            <stage rend="italic center" type="entrance" who="#F-mnd-obe,#F-mnd-tit">Enter King and Queene of Fairies, with their traine.</stage>
                             <sp who="#F-mnd-obe">
                                 <speaker rend="italic">Ob.</speaker>
                                 <l>Through the house giue glimmering light,</l>
